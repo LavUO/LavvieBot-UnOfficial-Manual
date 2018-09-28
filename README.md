@@ -1,1 +1,2 @@
-# LavvieBot-UnOfficial-Manual
+# Initial page
+
